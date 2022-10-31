@@ -2,6 +2,12 @@
  
 **Next time you go through airport security or to a doctor's appointment give feedback on the service by showing a gesture to a camera. Easy way to collect and see people's impressions of a service.**
 
+### Screenshot
+![alt text](https://github.com/BubblesIsMyName/GIVE-ME-FEEDBACK-/blob/main/assets/images/screen_gesture_app.png)
+
+### Demo Video
+https://youtu.be/5RZqSvfYneo
+
 The application uses a classification model that has been trained to recongise 3 gestures (peace, devil horns and thumbs up), all the other hand gestures are recongised as "other". 
 
 **NB! the dataset that was used to train the classification model is limited as it only used gestures used by the author, for a more generalised applicaiton of the application, the classificaiton model needs to be improved!!!**
