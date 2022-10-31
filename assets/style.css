@@ -1,0 +1,35 @@
+body {background-color: white;} 
+
+#title-id {
+    font-size:xx-large;
+    color: #449afd;
+}
+#main-div{
+    font-family: Arial;        
+    text-align: center;
+    color: #449afd;
+}
+#play-lift-graph-div{
+    align-self: center;
+}
+
+#capture-button{
+    padding: 20px;
+    border-radius: 5px;
+    font-size: x-large;
+    font-weight: bold;
+    background-color: #3b66fa;
+    border-color: #425fea;
+    color: white;
+
+}
+#reset-button{
+    padding: 20px;
+    border-radius: 5px;
+    font-size: x-large;
+    font-weight: bold;
+    background-color: #3b66fa;
+    border-color: #425fea;
+    color: white;
+
+}
